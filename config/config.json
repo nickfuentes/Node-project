@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nickolasfuentes",
+    "password": null,
+    "database": "sequelize-project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "nickolasfuentes",
+    "password": null,
+    "database": "sequelize-project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "nickolasfuentes",
+    "password": null,
+    "database": "sequelize-project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
